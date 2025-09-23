@@ -13,11 +13,11 @@
 8. Click "Create repository"
 
 ### Step 2: Connect Local Repository to GitHub
-After creating the repository, GitHub will show you commands. Use these:
+After creating the repository, GitHub will show you commands. Use these exact commands:
 
 ```bash
 # Add GitHub as remote origin
-git remote add origin https://github.com/YOUR_USERNAME/enhanced-anomaly-detection-system.git
+git remote add origin https://github.com/archit2501/enhanced-anomaly-detection-system.git
 
 # Rename branch to main (GitHub default)
 git branch -M main
@@ -26,7 +26,7 @@ git branch -M main
 git push -u origin main
 ```
 
-Replace `YOUR_USERNAME` with your actual GitHub username.
+Your GitHub username is: **archit2501**
 
 ### Step 3: Verify Upload
 1. Refresh your GitHub repository page
@@ -65,7 +65,7 @@ Your repository is now professional and ready to:
 
 **Next command to run:**
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/enhanced-anomaly-detection-system.git
+git remote add origin https://github.com/archit2501/enhanced-anomaly-detection-system.git
 git branch -M main
 git push -u origin main
 ```
